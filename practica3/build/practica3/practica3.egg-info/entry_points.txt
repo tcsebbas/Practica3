@@ -1,0 +1,4 @@
+[console_scripts]
+dibujo = practica3.dibujo:main
+navegar = practica3.navegar:main
+

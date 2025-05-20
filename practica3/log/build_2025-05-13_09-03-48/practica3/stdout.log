@@ -1,0 +1,39 @@
+running egg_info
+creating build/practica3/practica3.egg-info
+writing build/practica3/practica3.egg-info/PKG-INFO
+writing dependency_links to build/practica3/practica3.egg-info/dependency_links.txt
+writing entry points to build/practica3/practica3.egg-info/entry_points.txt
+writing requirements to build/practica3/practica3.egg-info/requires.txt
+writing top-level names to build/practica3/practica3.egg-info/top_level.txt
+writing manifest file 'build/practica3/practica3.egg-info/SOURCES.txt'
+reading manifest file 'build/practica3/practica3.egg-info/SOURCES.txt'
+writing manifest file 'build/practica3/practica3.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/tcsebbas/ros2_ws/src/practica3/build/practica3/build
+creating /home/tcsebbas/ros2_ws/src/practica3/build/practica3/build/lib
+creating /home/tcsebbas/ros2_ws/src/practica3/build/practica3/build/lib/practica3
+copying practica3/navegar.py -> /home/tcsebbas/ros2_ws/src/practica3/build/practica3/build/lib/practica3
+copying practica3/__init__.py -> /home/tcsebbas/ros2_ws/src/practica3/build/practica3/build/lib/practica3
+copying practica3/dibujo.py -> /home/tcsebbas/ros2_ws/src/practica3/build/practica3/build/lib/practica3
+running install
+running install_lib
+creating /home/tcsebbas/ros2_ws/src/practica3/install/practica3/lib/python3.10/site-packages/practica3
+copying /home/tcsebbas/ros2_ws/src/practica3/build/practica3/build/lib/practica3/navegar.py -> /home/tcsebbas/ros2_ws/src/practica3/install/practica3/lib/python3.10/site-packages/practica3
+copying /home/tcsebbas/ros2_ws/src/practica3/build/practica3/build/lib/practica3/__init__.py -> /home/tcsebbas/ros2_ws/src/practica3/install/practica3/lib/python3.10/site-packages/practica3
+copying /home/tcsebbas/ros2_ws/src/practica3/build/practica3/build/lib/practica3/dibujo.py -> /home/tcsebbas/ros2_ws/src/practica3/install/practica3/lib/python3.10/site-packages/practica3
+byte-compiling /home/tcsebbas/ros2_ws/src/practica3/install/practica3/lib/python3.10/site-packages/practica3/navegar.py to navegar.cpython-310.pyc
+byte-compiling /home/tcsebbas/ros2_ws/src/practica3/install/practica3/lib/python3.10/site-packages/practica3/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/tcsebbas/ros2_ws/src/practica3/install/practica3/lib/python3.10/site-packages/practica3/dibujo.py to dibujo.cpython-310.pyc
+running install_data
+creating /home/tcsebbas/ros2_ws/src/practica3/install/practica3/share/ament_index
+creating /home/tcsebbas/ros2_ws/src/practica3/install/practica3/share/ament_index/resource_index
+creating /home/tcsebbas/ros2_ws/src/practica3/install/practica3/share/ament_index/resource_index/packages
+copying resource/practica3 -> /home/tcsebbas/ros2_ws/src/practica3/install/practica3/share/ament_index/resource_index/packages
+copying package.xml -> /home/tcsebbas/ros2_ws/src/practica3/install/practica3/share/practica3
+running install_egg_info
+Copying build/practica3/practica3.egg-info to /home/tcsebbas/ros2_ws/src/practica3/install/practica3/lib/python3.10/site-packages/practica3-0.0.0-py3.10.egg-info
+running install_scripts
+Installing dibujo script to /home/tcsebbas/ros2_ws/src/practica3/install/practica3/lib/practica3
+Installing navegar script to /home/tcsebbas/ros2_ws/src/practica3/install/practica3/lib/practica3
+writing list of installed files to '/home/tcsebbas/ros2_ws/src/practica3/build/practica3/install.log'
